@@ -1,0 +1,391 @@
+[
+  {
+    "id": 0,
+    "quote": "Siedzenie z założonymi rękami, gdy inni tworzą historię, jest upokarzające. Zwycięstwo to sprawa drugorzędna.",
+    "author": " Benito Mussolini"
+  },
+  {
+    "id": 1,
+    "quote": "Aby stworzyć wielki naród, należy go posłać w bój, nawet jeżeli konieczny będzie kop na rozpęd. To właśnie zamierzam zrobić.",
+    "author": " Benito Mussolini"
+  },
+  {
+    "id": 2,
+    "quote": "Idąc na bitwę, każdy żołnierz powinien wiedzieć, jak wpisuje się ona w plan ogólny.",
+    "author": " Bernard L. Montgomery"
+  },
+  {
+    "id": 3,
+    "quote": "Jeżeli przegramy wojnę w powietrzu, szybko przegramy też wojnę na lądzie.",
+    "author": " Bernard L. Montgomery"
+  },
+  {
+    "id": 4,
+    "quote": "Dobrze jest ufać innym, ale znacznie lepiej jest im nie ufać.",
+    "author": " Benito Mussolini"
+  },
+  {
+    "id": 5,
+    "quote": "Nie wierzę w wieczny pokój ze względów filozoficznych i doktrynalnych.",
+    "author": " Benito Mussolini"
+  },
+  {
+    "id": 6,
+    "quote": "Póki istnieją kraje, które dysponują wielką siłą, wojna jest nieunikniona.",
+    "author": " Albert Einstein"
+  },
+  {
+    "id": 7,
+    "quote": "Nieważne, kto głosuje. Ważne, kto liczy głosy.",
+    "author": " Józef Stalin"
+  },
+  {
+    "id": 8,
+    "quote": "Historia pokazała, że żadna armia nie jest niezwyciężona.",
+    "author": " Józef Stalin"
+  },
+  {
+    "id": 9,
+    "quote": "Papież? A ile on ma dywizji?",
+    "author": " Józef Stalin"
+  },
+  {
+    "quote": "Związek Radziecki to niezwykle wesołe miejsce.",
+    "author": " Józef Stalin"
+  },
+  {
+    "id": 10,
+    "quote": "Karabin jest jedynym źródłem realnej władzy.",
+    "author": " Józef Stalin"
+  },
+  {
+    "id": 11,
+    "quote": "Każdy sojusz, który nie został zawiązany, by rozpocząć wojnę, jest bezsensowny i bezużyteczny.",
+    "author": "- Adolf Hitler"
+  },
+  {
+    "id": 12,
+    "quote": "Wielcy kłamcy są także wielkimi iluzjonistami.",
+    "author": " Adolf Hitler"
+  },
+  {
+    "id": 13,
+    "quote": "Jeżeli dziś nawołuję do rewolucji, to jest to rewolucja przeciwko rewolucji.",
+    "author": " Adolf Hitler"
+  },
+  {
+    "id": 14,
+    "quote": "Jeśli powiesz wielkie kłamstwo i będziesz je często powtarzać, ludzie w nie uwierzą.",
+    "author": " Adolf Hitler"
+  },
+  {
+    "id": 15,
+    "quote": "Niemcy muszą być mocarstwem, bo inaczej staną się wspomnieniem.",
+    "author": " Adolf Hitler"
+  },
+  {
+    "id": 16,
+    "quote": "Sukces polega na przechodzeniu od porażki do porażki bez utraty entuzjazmu.",
+    "author": " Winston Churchill"
+  },
+  {
+    "id": 17,
+    "quote": "Jeśli idziesz przez piekło, nie zatrzymuj się.",
+    "author": " Winston Churchill"
+  },
+  {
+    "id": 18,
+    "quote": "Najlepszym argumentem przeciwko demokracji jest pięciominutowa rozmowa z przeciętnym wyborcą.",
+    "author": " Winston Churchill"
+  },
+  {
+    "id": 19,
+    "quote": "Czołgi odegrają kluczową rolę w każdej przyszłej bitwie.",
+    "author": " Heinz Guderian"
+  },
+  {
+    "id": 20,
+    "quote": "Nowe niemieckie czołgi typu Panther i Tiger mogą być wykorzystywane aż do pierwszej poważnej usterki. Mają one kiepskie silniki, układy napędowe i zawieszenie.",
+    "author": " Departament uzbrojenia Armii Czerwonej"
+  },
+  {
+    "id": 21,
+    "quote": "Żaden dureń nie wygrał jeszcze wojny, umierając za ojczyznę. Wygrał ją ten, kto sprawił, że inni durnie umierali za swoją.",
+    "author": " George S. Patton"
+  },
+  {
+    "id": 22,
+    "quote": "Dobry plan wykonany natychmiast jest lepszy niż idealny plan wykonany tydzień później.",
+    "author": " George S. Patton"
+  },
+  {
+    "id": 23,
+    "quote": "Prowadźcie mnie, podążajcie za mną albo zejdźcie mi z drogi.",
+    "author": " George S. Patton"
+  },
+  {
+    "id": 24,
+    "quote": "Nikt nigdy niczego nie obronił. Liczy się tylko atak, atak i jeszcze raz atak.",
+    "author": " George S. Patton"
+  },
+  {
+    "id": 25,
+    "quote": "Na wojnach można walczyć bronią, lecz to ludzie je wygrywają. To duch ludzi, którzy słuchają rozkazów, i człowieka, który je wydaje, odnosi zwycięstwo.",
+    "author": " George S. Patton"
+  },
+  {
+    "id": 26,
+    "quote": "Gdy po raz pierwszy zobaczyłem odrzutowiec, zestrzeliłem go.",
+    "author": " Chuck Yeager, USAF"
+  },
+  {
+    "id": 27,
+    "quote": "Theo, tu Heinrich. Zestrzeliłem dwa bombowce. Nie mam już amunicji. Będę taranował. Auf Wiedersehen, do zobaczenia w Walhalli!",
+    "author": " Heinrich Ehrler, Luftwaffe"
+  },
+  {
+    "id": 28,
+    "quote": "Dowodzenie polega na wybieraniu właściwych ludzi i zachęcaniu ich, by dali z siebie wszystko.",
+    "author": " Chester W. Nimitz"
+  },
+  {
+    "id": 29,
+    "quote": "Czy proponowana operacja może zakończyć się sukcesem? Czy jest ona realna ze względu na dostępne wyposażenie i zaopatrzenie?",
+    "author": " Chester W. Nimitz"
+  },
+  {
+    "id": 30,
+    "quote": "Przygotowując się do bitew, zawsze uzmysławiałem sobie, że plany są bezużyteczne, ale planowanie jest nieodzowne.",
+    "author": " Dwight D. Eisenhower"
+  },
+  {
+    "id": 31,
+    "quote": "Liczy się nie to, jak duży jest bojowy pies, lecz to, jak dużo jest bojowości w psie.",
+    "author": " Dwight D. Eisenhower"
+  },
+  {
+    "id": 32,
+    "quote": "Jest rzeczą oczywistą, że gdy przetrwanie stoi pod znakiem zapytania, ludzie chwytają za broń i rozpoczyna się nieszczęście wojny.",
+    "author": " Hideki Tojo"
+  },
+  {
+    "id": 33,
+    "quote": "W walce jeden na jednego wygrywa ten, kto ma więcej pocisków w magazynku.",
+    "author": " Erwin Rommel"
+  },
+  {
+    "id": 34,
+    "quote": "Wolę być młotem niż kowadłem.",
+    "author": " Erwin Rommel"
+  },
+  {
+    "id": 35,
+    "quote": "Traćcie pot, nie krew; traćcie krew, nie życie; nie traćcie głowy, a zachowacie i krew, i życie.",
+    "author": " Erwin Rommel"
+  },
+  {
+    "id": 36,
+    "quote": "Biedny Neville Chamberlain myślał, że Hitlerowi można ufać. Był w błędzie. Ja jednak chyba nie mylę się co do Stalina.",
+    "author": " Winston Churchill (po konferencji w Jałcie)"
+  },
+  {
+    "id": 37,
+    "quote": "Uważam, że jest to pokój po wsze czasy.",
+    "author": " Neville Chamberlain, 1938 r., po układzie monachijskim"
+  },
+  {
+    "id": 38,
+    "quote": "Żaden wrogi bombowiec nie doleci do Zagłębia Ruhry. Jeżeli któremuś się uda, to nie nazywam się Göring, tylko Meyer.",
+    "author": " Hermann Meyer"
+  },
+  {
+    "id": 39,
+    "quote": "Wystarczy tyko kopnąć w drzwi, a cała ta zgniła buda od razu się rozleci.",
+    "author": "- Adolf Hitler (o ZSRR)"
+  },
+  {
+    "id": 40,
+    "quote": "Przez pierwsze sześć do dwunastu miesięcy wojny mogę szarpać boki Wielkiej Brytanii i Stanom Zjednoczonym. Po tym czasie nie przewiduję sukcesu.",
+    "author": " Isoroku Yamamoto"
+  },
+  {
+    "id": 41,
+    "quote": "Gdy trafiamy na pole minowe, nasza piechota atakuje tak, jakby go wcale nie było.",
+    "author": " Gieorgij Żukow"
+  },
+  {
+    "id": 42,
+    "quote": "Nie doceniliśmy rosyjskiego kolosa... My niszczymy dwanaście dywizji, a Rosjanie wystawiają następny tuzin.",
+    "author": " Franz Halder"
+  },
+  {
+    "id": 43,
+    "quote": "Do niemieckiego dowódcy: Tere-fere!",
+    "author": " Amerykański dowódca. Anthony C. McAuliffe (w odpowiedzi na niemieckie żądania kapitulacji)"
+  },
+  {
+    "id": 44,
+    "quote": "Dziś trafiło na nas. Jutro trafi na was.",
+    "author": " Hajle Syllasje I, 1936 r."
+  },
+  {
+    "id": 45,
+    "quote": "Ani kroku w tył!",
+    "author": " Radziecki rozkaz nr 227"
+  },
+  {
+    "id": 46,
+    "quote": "Tora! Tora! Tora!",
+    "author": " Mitsuo Fuchida, 7 grudnia 1941 r."
+  },
+  {
+    "id":47,
+    "quote": "Twoje imię jest nieznane. Twoje czyny są nieśmiertelne.",
+    "author": " Grób Nieznanego Żołnierza (Moskwa)"
+  },
+  {
+    "id": 48,
+    "quote": "Gdzie, powtarzam, gdzie jest Task Force 34? Cały świat się zastanawia.",
+    "author": " CINCPAC, bitwa w zatoce Leyte"
+  },
+  {
+    "id": 49,
+    "quote": "Wojna raczej nie okazała się dla Japonii korzystna.",
+    "author": " Cesarz Hirohito, 1945 r."
+  },
+  {
+    "id": 5,
+    "quote": "Trzeba było wyciągnąć naukę z pierwszej wojny.",
+    "author": " Gerd von Rundstedt"
+  },
+  {
+    "id": 51,
+    "quote": "Ogrom Rosji nas pochłania.",
+    "author": " Gerd von Rundstedt"
+  },
+  {
+    "id": 52,
+    "quote": "Pytam więc: chcecie wojny totalnej? Jesteście gotowi na większą i bardziej radykalną wojnę, niż możemy to sobie wyobrazić?",
+    "author": " Joseph Goebbels"
+  },
+  {
+    "id": 53,
+    "quote": "Wystarczyło krótkie natarcie wojsk niemieckich, a następnie Armii Czerwonej, by nic nie pozostało po tym bękarcie traktatu wersalskiego.",
+    "author": " Wiaczesław Mołotow (po upadku Polski)"
+  },
+  {
+    "id": 54,
+    "quote": "Jednego płaszczaka mniej! Dixon do lotniskowca: jednego płaszczaka mniej!",
+    "author": " Robert E. Dixon, bitwa na Morzu Koralowym"
+  },
+  {
+    "id": 55,
+    "quote": "Paskudna sytuacja, nieprawdaż? Oto dwóch członków niemieckiego sztabu generalnego debatuje, jak zamordować zwierzchnika sił zbrojnych.",
+    "author": " Henning von Tresckow"
+  },
+  {
+    "id": 56,
+    "quote": "Hitler to wirujący derwisz. Trzeba go zatrzymać.",
+    "author": " Henning von Tresckow"
+  },
+  {
+    "id": 57,
+    "quote": "Naziści rozpoczęli tę wojnę z dość dziecinnym przeświadczeniem, że będą mogli bombardować wszystkich dookoła, a nikt nie zbombarduje ich.",
+    "author": " Arthur Bomber Harris"
+  },
+  {
+    "id": 58,
+    "quote": "Gdyby Hitler napadł na piekło, Izba Gmin usłyszałaby ode mnie pochwałę szatana.",
+    "author": " Winston Churchill, 21 czerwca 1941 r."
+  },
+  {
+    "id": 59,
+    "quote": "A więc drań nie żyje? Szkoda, że nie schwytaliśmy go żywcem!",
+    "author": " Józef Stalin (na wieść o samobójstwie Hitlera)"
+  },
+  {
+    "id": 60,
+    "quote": "Zostaliśmy pokonani. Pobito nas, przegraliśmy.",
+    "author": " Paul Reynaud, 15 maja 1940 r."
+  },
+  {
+    "id": 61,
+    "quote": "Potrzebuję paru tysięcy poległych, by móc zasiąść do rokowań pokojowych jako ktoś, kto wziął udział w walce.",
+    "author": " Benito Mussolini"
+  },
+  {
+    "id": 62,
+    "quote": "Francuzi okłamali Polaków, obiecując, że zaatakują. Nikt nawet tego nie rozważa.",
+    "author": " Edmund Ironside"
+  },
+  {
+    "id": 63,
+    "quote": "Po co umierać za Gdańsk?",
+    "author": " Francuski slogan antywojenny, 1939 r."
+  },
+  {
+    "id": 64,
+    "quote": "Ta wojna jest jakaś dziwna.",
+    "author": " Amerykański senator William Borah, 1939 r."
+  },
+  {
+    "id": 65,
+    "quote": "Szwajcaria może się poszczycić najbardziej odrażającym narodem i systemem politycznym. Szwajcarzy to śmiertelni wrogowie nowych Niemiec.",
+    "author": " Adolf Hitler"
+  },
+  {
+    "id": 66,
+    "quote": "Owoce zwycięstwa zbyt szybko wpadają nam do ust.",
+    "author": " Cesarz Hirohito"
+  },
+  {
+    "id": 0,
+    "quote": "Wszyscy będziecie pucować niemieckie buty!",
+    "author": " Italo Balbo"
+  },
+  {
+    "id": 67,
+    "quote": "Zatopcie, spalcie, przechwyćcie, zniszczcie. Nic nie ma prawa się przedrzeć.",
+    "author": " Andrew Cunningham, kampania północnoafrykańska"
+  },
+  {
+    "id": 68,
+    "quote": "Chyba posunęliśmy się o jeden most za daleko.",
+    "author": " Frederick Browning (przed operacją Market Garden)"
+  },
+  {
+    "id": 69,
+    "quote": "Dzięki Bogu za armię francuską.",
+    "author": " Winston Churchill, 1933 r."
+  },
+  {
+    "id": 70,
+    "quote": "Gdy widzisz grzechotnika, który szykuje się do ataku, uderz go, zanim cię ukąsi.",
+    "author": " Franklin D. Roosevelt"
+  },
+  {
+    "id": 71,
+    "quote": "Zasady niekoniecznie są święte. Co innego idee.",
+    "author": " Franklin D. Roosevelt"
+  },
+  {
+    "id": 72,
+    "quote": "Ludzie, którzy są głodni i nie mają pracy, to podstawowy budulec każdej dyktatury.",
+    "author": " Franklin D. Roosevelt"
+  },
+  {
+    "id": 73,
+    "quote": "Żołnierz musi być czujny, by zachować życie. Jeśli straci czujność, jakiś niemiecki sukinkot podkradnie się do niego i zatłucze go na śmierć skarpetą pełną gówna.",
+    "author": " George S. Patton"
+  },
+  {
+    "id": 74,
+    "quote": "Umocnienia, artyleria, pomoc zagraniczna - wszystko to na nic, jeśli zwykły żołnierz nie wie, że to ON strzeże swej ojczyzny.",
+    "author": " Carl Gustaf Emil Mannerheim"
+  },
+  {
+    "id": 75,
+    "quote": "Przez błoto i krew ku zielonym łąkom.",
+    "author": " Motto Kanadyjskiego Królewskiego Korpusu Pancernego"
+  }
+]

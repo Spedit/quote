@@ -1,0 +1,90 @@
+body {
+    /*background: url(img/home-office-336373_1920.jpg) no-repeat center center fixed;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #419641;
+
+
+}
+.return {
+    margin-right: 10px;
+    margin-top: 10px;
+    /*float: right;*/
+    border: black 2px;
+    position: relative;
+    display:  block;
+
+}
+
+.main-cl{
+    display: table;
+    margin: 0 auto;
+}
+.outer-box {
+    margin-top: 100px;
+    width: 600px;
+    height: 300px;
+    border-radius: 5px;
+    border-color: white;
+    text-align: center;
+    background-color: #f5f5ff;
+
+}
+.outer-box:hover{
+    box-shadow: 0 0 0.4em beige;
+}
+
+.inner-box {
+    margin: 20px 20px 0px 20px;
+    padding-top: 20px;
+    height: 200px;
+    background-color: white;
+    justify-content: center;
+}
+i {
+    display: inline;
+    justify-content: center;
+}
+.quote-author {
+    margin: 0px 20px 20px 20px;
+    padding-right: 20px;
+    text-align: right;
+    height: 25px;
+    background-color: white;
+}
+.author {
+    font-weight: bold;
+
+}
+.quote{
+    display: inline;
+}
+
+.buttons{
+
+}
+#change {
+    text-align: right;
+}
+.btn-co {
+    border: 1px;
+    box-shadow: 0 0 1em #ccc;
+    margin-top: 10px;
+    padding: .5rem 1rem;
+    font-size: 1.25rem;
+    border-radius: .3rem;
+    margin-left: 10px;
+}
+
+.btn-border{
+    /*border: 5px;*/
+    border-radius: 4px;
+}
+
+.footer-me {
+    font-size: 11px;
+    text-align: center;
+    color: black;
+}
